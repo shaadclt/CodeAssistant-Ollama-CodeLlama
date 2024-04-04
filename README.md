@@ -13,7 +13,7 @@ This project provides a user-friendly Gradio interface that enables you to inter
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/gradio-code-generation.git
+git clone https://github.com/shaadclt/CodeAssistant-Ollama-CodeLlama.git
 ```
 
 2. Install dependencies:
