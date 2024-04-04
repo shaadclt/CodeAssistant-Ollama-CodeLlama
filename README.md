@@ -27,11 +27,11 @@ pip install -r requirements.txt
 
 1. Install Ollama:
 
-If you haven't already, follow the installation instructions for Ollama from their website: https://ollama.com/
+  If you haven't already, follow the installation instructions for Ollama from their website: https://ollama.com/
 
 2. Download the CodeLlama Model:
 
-Use Ollama to download the CodeLlama model and follow the appropriate instructions for your system: https://ollama.com/ for details on downloading models.
+  Use Ollama to download the CodeLlama model and follow the appropriate instructions for your system: https://ollama.com/ for details on downloading models.
 
 3. Create modelfile
 
