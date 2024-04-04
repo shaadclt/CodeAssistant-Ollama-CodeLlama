@@ -26,27 +26,15 @@ pip install -r requirements.txt
 ## Usage:
 
 1. Install Ollama:
-
-  If you haven't already, follow the installation instructions for Ollama from their website: https://ollama.com/
-
 2. Download the CodeLlama Model:
-
-  Use Ollama to download the CodeLlama model and follow the appropriate instructions for your system: https://ollama.com/ for details on downloading models.
-
 3. Create modelfile
-
 4. Create custom model using Ollama
-
 5. Run the custom model.
-
 6. Start the Gradio Interface:
-
 ```bash
 python app.py
 ```
-
 7. Open **http://127.0.0.1:7860** in your web browser.
-
 8. Enter your prompt in the textbox and click "Submit" to generate code based on your input.
 
 
