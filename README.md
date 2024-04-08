@@ -2,11 +2,6 @@
 
 This project provides a user-friendly Gradio interface that enables you to interact with the custom model based on CodeLlama model from Ollama, an open-source large language model platform. Simply enter your prompt in the textbox, and custom model will generate code based on your input.
 
-## Features:
-
-- Leverages Gradio for a user-friendly interactive experience.
-- Integrates with the CodeLlama model from Ollama (https://ollama.com/), a free and open-source large language model platform.
-
 
 ## Installation:
 
